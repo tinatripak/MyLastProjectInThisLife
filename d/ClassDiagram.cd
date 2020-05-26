@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="d.Controllers.FilmsByGenreController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Controllers\FilmsByGenreController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.FilmsByYearController">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Controllers\FilmsByYearController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.IDController">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Controllers\IDController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.InfoAboutFilmController">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\InfoAboutFilmController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.OMDBController">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\OMDBController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.SiteController">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\SiteController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.TopFilmsOfDayController">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TopFilmsOfDayController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Controllers.TopFilmsOfYearController">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TopFilmsOfYearController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.IdOfFilm">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>IdOfFilm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Film">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAAECAAAAAAA=</HashCode>
+      <FileName>InfoFilm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.omdbinfo">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAADAAAgEAAAAIAAAAAAAAAEAAAAAAEAAEAAAA=</HashCode>
+      <FileName>omdbinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Program">
+    <Position X="7.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Site">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Site.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.ArrayTitle">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Titles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Titles">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Titles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="d.Startup">
+    <Position X="9.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
