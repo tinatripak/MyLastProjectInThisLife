@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\botmaybe.exe.config
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\botmaybe.exe
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\botmaybe.pdb
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\Telegram.Bot.dll
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\botmaybe\botmaybe\bin\Debug\Telegram.Bot.xml
+C:\Users\Asus\source\repos\botmaybe\botmaybe\obj\Debug\botmaybe.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\botmaybe\botmaybe\obj\Debug\botmaybe.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\botmaybe\botmaybe\obj\Debug\botmaybe.csproj.CopyComplete
+C:\Users\Asus\source\repos\botmaybe\botmaybe\obj\Debug\botmaybe.exe
+C:\Users\Asus\source\repos\botmaybe\botmaybe\obj\Debug\botmaybe.pdb
